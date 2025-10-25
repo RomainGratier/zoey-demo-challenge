@@ -1,0 +1,76 @@
+# Zoey Challenge Knowledge Base
+version: "1.0.0"
+title: "zoey-demo-challenge"
+description: "a senior full-stack challenge demo."
+created_at: "2025-10-25T16:26:44.182Z"
+
+# =============================================================================
+# CHALLENGE OVERVIEW
+# =============================================================================
+overview: |
+  a senior full-stack challenge demo.
+
+# =============================================================================
+# FUNCTIONAL REQUIREMENTS
+# =============================================================================
+requirements:
+  core_features:
+    - "javascript bundlers"
+    - "rust speed"
+  
+  nice_to_have:
+    - "No optional features specified"
+  
+  quality_standards:
+
+
+# =============================================================================
+# TECHNICAL CONSTRAINTS
+# =============================================================================
+constraints:
+  technology_stack:
+    - "node"
+    - "javascript"
+    - "vite"
+    - "webpack"
+    - "rust"
+    - "python"
+  
+  limitations:
+    - "No specific limitations"
+  
+  time_expectation: "2-4 hours"
+
+# =============================================================================
+# ACCEPTANCE CRITERIA (How we'll validate success)
+# =============================================================================
+acceptance_criteria:
+  - criteria: "Not yet defined"
+    tests:
+      - "not yet defined"
+
+# =============================================================================
+# GUIDANCE FOR AI CODING AGENT
+# =============================================================================
+ai_agent_guidance: |
+  When implementing this challenge:
+  
+  1. FOCUS ON QUALITY OVER QUANTITY
+     - Write production-ready code, not quick hacks
+     - Include proper error handling and validation
+     - Make it easy for humans to review and understand
+  
+  2. DOCUMENTATION MATTERS
+     - Explain complex logic with comments
+     - Document setup steps in README
+     - Note any assumptions or trade-offs made
+  
+  3. COLLABORATION MINDSET
+     - Write code as if you're joining an existing team
+     - Follow common conventions and best practices
+     - Make it easy for others to modify and extend
+  
+  4. STAY ON TRACK
+     - Follow the requirements and acceptance criteria defined above
+     - Don't add features outside the scope without explicit approval
+     - Ask for clarification if requirements are ambiguous
